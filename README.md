@@ -1,4 +1,4 @@
-<h1 align="center">la Complexité</h1>
+<h1 align="center">Théorie de la Complexité</h1>
 
 ![time-complexity](https://github.com/mohamedtalhaouii/Complexity/assets/144726758/e63a513f-6f06-4a30-af8e-8a17d7087e4a)
 
@@ -64,3 +64,8 @@
    - **Classes :**
 -  **RP (Randomized Polynomial Time) :** Problèmes pour lesquels il existe un algorithme randomisé qui s'exécute en temps polynomial et a une probabilité d'au moins 1/2 de donner la bonne réponse.
 -  **BPP (Bounded-error Probabilistic Polynomial Time) :** Problèmes pour lesquels il existe un algorithme randomisé qui s'exécute en temps polynomial et a une probabilité d'erreur bornée inférieure à 1/3.
+
+
+
+<hr>
+<h3 align="center"> 🧑🏻‍💻 | Made By : <a href="https://github.com/mohamedtalhaouii" target="_blank">Mohamed Talhaoui</a></h3>
